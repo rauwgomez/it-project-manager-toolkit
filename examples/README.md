@@ -1,5 +1,6 @@
 # Examples
 
-Filled-in samples using templates from `/templates`.
+These are filled-in samples using templates from `/templates`.
 
-These exist to show how I structure work and communicate updates.
+## Project Charters
+- [Company-wide MFA rollout](project-charter-mfa-rollout.md)

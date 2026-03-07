@@ -1,4 +1,4 @@
-# Week 1 — IT Project Management Fundamentals (Reference Guide)
+Project Management Fundamentals (Reference Guide)
 
 ## Executive Summary
 Project management delivers **business value** by coordinating people, scope, schedule, and budget through a disciplined lifecycle. Effective PMs choose an appropriate **delivery framework** (Waterfall, Agile, or Hybrid), then use planning artifacts and routines (WBS, baseline plan, status reporting) to keep work predictable and transparent. Across all approaches, strong outcomes depend on **stakeholder alignment**, **early risk management**, **clear communication**, and **controlled change**.

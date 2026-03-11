@@ -1,53 +1,34 @@
-# 10-Week Roadmap (Free)
+# Roadmap (tracked)
 
-Target: ~4–5 hours/week.
+**Statuses**
+- **Done** — completed + proof added to repo
+- **In progress** — currently working on it
+- **To do** — planned next
+- **Optional** — useful, but not required
 
-The goal is to build real delivery habits (planning, visibility, risk, clean handoffs) and collect a few credible badges/certificates along the way.
+## Learning + portfolio tracker
 
-## Week 0 — Setup
-- [ ] Create repo structure + starter templates
-- [ ] Add repo link to LinkedIn “Featured”
-- [ ] Create a simple tracker (this file)
+| Status | Topic | Credential / training | Proof to add to this repo |
+|---|---|---|---|
+| Done | PM fundamentals | IBM SkillsBuild — Project Management Fundamentals | `notes/it-pm-fundamentals.md` + `examples/project-charter-mfa-rollout.md` |
+| In progress | IT fundamentals | IBM SkillsBuild — Information Technology Fundamentals (credential) | Add: 1 short note in `notes/` + 1 new realistic artifact in `examples/` |
+| To do | Jira fundamentals | Atlassian University — Jira Fundamentals | Add: `notes/jira-fundamentals.md` + 1 repo update (ex: status report example or RAID updates) |
+| To do | Identity & access | Microsoft Applied Skills — Get started with identities and access using Microsoft Entra | Add: `notes/entra-identities-access.md` + update MFA example with support readiness steps |
+| To do | Networking basics | Cisco NetAcad — Networking Basics | Add: `notes/networking-basics.md` + 1 network/support artifact in `examples/` |
+| To do | Cybersecurity basics | Cisco NetAcad — Introduction to Cybersecurity | Add: `notes/cybersecurity-basics.md` + 1 incident artifact (example or improved postmortem) |
+| To do | Azure basics | Microsoft Applied Skills — Get started with Azure management tasks | Add: `notes/azure-management-basics.md` + 1 cloud-related artifact in `examples/` |
+| To do | Data fundamentals | IBM SkillsBuild — Data Fundamentals (credential) | Add: `notes/data-fundamentals.md` + a small data/SQL proof artifact |
+| To do | Web fundamentals | IBM SkillsBuild — Web Development Fundamentals (credential) | Add: a small web mini-project (folder created when started) |
+| To do | AI fundamentals | IBM SkillsBuild — Artificial Intelligence Fundamentals (credential) | Add: `notes/ai-fundamentals.md` + 1 AI-at-work guideline artifact |
 
-## Week 1 — PM basics (IBM SkillsBuild)
-- Training: IBM SkillsBuild — IT Project Management Fundamentals
-- Deliverable: Fill `templates/project-charter.md` and save an example in `examples/`
+## Optional (useful add-ons)
 
-## Week 2 — Agile basics (IBM SkillsBuild)
-- Training: IBM SkillsBuild — Agile Explorer (badge)
-- Deliverable: `templates/weekly-status-report.md`
+| Status | Topic | Training | Proof to add |
+|---|---|---|---|
+| Optional | Atlassian cloud | Atlassian University — Atlassian Cloud Foundations | Add: `notes/atlassian-cloud-foundations.md` |
+| Optional | ITSM intro | Atlassian University — Jira Service Management fundamentals | Add: `notes/itsm-basics.md` |
+| Optional | Security awareness | Fortinet Training Institute — NSE 1 (then NSE 2 if time) | Add: credential link in `certificates/README.md` |
+| Optional | GitHub workflow | GitHub Student “Intro to GitHub”, Markdown, Codespaces, Profile README | Add: credential/proof links in `certificates/README.md` + repo cleanup improvements |
 
-## Week 3 — Jira fundamentals (Atlassian University)
-- Training: Atlassian University — Jira Fundamentals
-- Deliverable: `templates/raid-log.csv` + a short note in `notes/`
-
-## Week 4 — Atlassian cloud + documentation habits
-- Training: Atlassian University — Atlassian Cloud Foundations
-- Deliverable: `templates/stakeholder-comms-plan.md`
-
-## Week 5 — Ops foundation (Cisco NetAcad)
-- Training: Cisco NetAcad — Networking Basics
-- Deliverable: `templates/sla-sli-slo-onepager.md`
-
-## Week 6 — Cyber fundamentals (Cisco NetAcad)
-- Training: Cisco NetAcad — Introduction to Cybersecurity
-- Deliverable: `templates/incident-postmortem.md`
-
-## Week 7 — Cloud fundamentals (Microsoft Learn)
-- Training: Microsoft Learn — Azure Fundamentals (AZ-900 learning path)
-- Deliverable: `notes/azure-fundamentals-glossary.md`
-
-## Week 8 — DevOps vocabulary (Microsoft Learn)
-- Training: Microsoft Learn — DevOps fundamentals path
-- Deliverable: `templates/cloud-migration-project-plan.md`
-
-## Week 9 — Security & identity basics (Microsoft Learn)
-- Training: Microsoft Learn — Security, Compliance, and Identity fundamentals (SC-900 learning path)
-- Deliverable: `examples/risk-register-sample.md`
-
-## Week 10 — Security awareness credential (Fortinet)
-- Training: Fortinet Training Institute — NSE 1 (then NSE 2 if time)
-- Deliverable: `templates/onboarding-offboarding-checklist.md`
-
-### Optional add-on (any time)
-- Atlassian University — Jira Service Management fundamentals (ITSM)
+## Template rule
+Templates are added only after I’ve used the artifact in at least one example and can reuse it confidently.

@@ -37,6 +37,10 @@ The focus is on **clear communication**, **repeatable processes**, and **realist
 | Incident documentation | Learning | `templates/incident-postmortem.md` |
 | IT fundamentals | In progress | *(will be added as notes + artifact)* |
 
+## Roadmap / Progress
+
+See [`ROADMAP.md`](ROADMAP.md).
+
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/raul-gomez-68ab481bb/

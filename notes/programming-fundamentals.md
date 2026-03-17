@@ -28,8 +28,6 @@ Technical solutions are built using the **George Pólya Strategy**, ensuring cod
   - Automated toll systems
   - ATM workflows
 
-> Note: Remove/replace any “Getty Images” placeholders with actual image links if you plan to include visuals.
-
 ---
 
 ## 2. Software Development (Python)

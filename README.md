@@ -7,10 +7,10 @@ The focus is on **clear communication**, **repeatable processes**, and **realist
 ## What’s in this repo
 
 - **examples/**  
-  Filled artifacts that show how I would document and run real work (projects / IT operations scenarios).
+  Filled artifacts that show how I would document and run real work. 
 
 - **notes/**  
-  Short topic notes and reference guides from training (kept scannable).
+  Short topic notes and reference guides 
 
 - **templates/**  
   Reusable versions of artifacts.  
